@@ -1,0 +1,25 @@
+{
+  "name": "my_project_directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianPerez3/App_symfony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianPerez3/App_symfony/issues"
+  },
+  "homepage": "https://github.com/AdrianPerez3/App_symfony#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^1.8.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
